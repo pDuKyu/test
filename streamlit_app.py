@@ -12,7 +12,7 @@ st.set_page_config(
     page_title='Inventory tracker',
     page_icon=':https://cdn-icons-png.flaticon.com/512/2758/2758737.png:', # This is an emoji shortcode. Could be a URL too.
 )
-
+st.markdown("이것은 [스트림릿](https://www.streamlit.io/)의 공식 웹사이트 링크입니다.")
 
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
