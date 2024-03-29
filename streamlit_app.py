@@ -10,7 +10,7 @@ import pandas as pd
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
     page_title='Inventory tracker',
-    page_icon='https://cdn-icons-png.flaticon.com/512/2758/2758737.png', # This is an emoji shortcode. Could be a URL too.
+    page_icon=':https://cdn-icons-png.flaticon.com/512/2758/2758737.png:', # This is an emoji shortcode. Could be a URL too.
 )
 
 
